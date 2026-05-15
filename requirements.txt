@@ -1,0 +1,9 @@
+discord.py
+python-dotenv
+pyyaml
+colored
+aenum
+pyjwt
+requests
+flask
+gunicorn
